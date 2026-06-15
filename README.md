@@ -18,6 +18,8 @@ This repository documents my Machine Learning learning journey, where I practice
   - Random Forest
   - Support Vector Machines
   - K-Nearest Neighbors
+  - Adaboost Algorithm
+  - XGBoost Algorithm
 - Unsupervised Learning
   - K-Means Clustering
   - PCA
